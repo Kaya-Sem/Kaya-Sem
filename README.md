@@ -1,6 +1,4 @@
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg" width="40 height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" width="40 height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="40 height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="cplusplus" **alt="cplusplus" width="40" height="40"/>
@@ -14,3 +12,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
   <img width="12" />
 </div>
+
+<!--  <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg" width="40 height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" width="40 height="40"/> -->
